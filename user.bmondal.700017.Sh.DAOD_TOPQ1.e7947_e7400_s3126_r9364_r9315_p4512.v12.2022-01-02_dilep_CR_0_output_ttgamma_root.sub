@@ -1,0 +1,7 @@
+executable = user.bmondal.700017.Sh.DAOD_TOPQ1.e7947_e7400_s3126_r9364_r9315_p4512.v12.2022-01-02_dilep_CR_0_output_ttgamma_root.sh
+log = user.bmondal.700017.Sh.DAOD_TOPQ1.e7947_e7400_s3126_r9364_r9315_p4512.v12.2022-01-02_dilep_CR_0_output_ttgamma_root.sub.log
+error = user.bmondal.700017.Sh.DAOD_TOPQ1.e7947_e7400_s3126_r9364_r9315_p4512.v12.2022-01-02_dilep_CR_0_output_ttgamma_root.sub.txt
+should_transfer_files = Yes
+when_to_transfer_output = ON_EXIT
++JobFlavour = "microcentury" 
+queue
